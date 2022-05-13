@@ -1,16 +1,25 @@
 # demo_impack_pratama
 
-A new Flutter project.
+## Panduan Penggunaan
 
-## Getting Started
+Masuk ke tab "My Activity", maka akan fetching list data activity.
 
-This project is a starting point for a Flutter application.
+![Img 1](/assets/ss1.png)
 
-A few resources to get you started if this is your first Flutter project:
+Tekan Icon "+" untuk membuat data activity, Anda akan diarahkan ke form "New Activity".
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![Img 2](/assets/ss2.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Untuk melihat detail activity silahkan klik card list activity pada tab "My Activity" di halaman utama.
+
+![Img 3](/assets/ss3.png)
+
+Untuk edit data activity, Anda bisa klik pada button "Edit Activity" pada halaman "Activity Info".
+Lakukan submit data seperti saat membuat activity baru.
+
+![Img 4](/assets/ss4.png)
+
+
+
+
+
